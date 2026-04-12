@@ -1,0 +1,15 @@
+line-bot/*.exe filter=lfs diff=lfs merge=lfs -text
+line-bot/*.zip filter=lfs diff=lfs merge=lfs -text
+image/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+image/**/*.png filter=lfs diff=lfs merge=lfs -text
+image/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+line-bot/*.png filter=lfs diff=lfs merge=lfs -text
+line-bot/*.jpg filter=lfs diff=lfs merge=lfs -text
+project_final/*.pth filter=lfs diff=lfs merge=lfs -text
+project_final/*.onnx filter=lfs diff=lfs merge=lfs -text
+project_final/*.jpg filter=lfs diff=lfs merge=lfs -text
+project_final/record/* filter=lfs diff=lfs merge=lfs -text
+project_final/models/buffalo_l/*.onnx filter=lfs diff=lfs merge=lfs -text
+project_final/models/*.onnx filter=lfs diff=lfs merge=lfs -text
+project_final/models/*.zip filter=lfs diff=lfs merge=lfs -text
+image/*.jpg filter=lfs diff=lfs merge=lfs -text
