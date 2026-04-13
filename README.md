@@ -122,7 +122,7 @@ Nginx (Port 80)
 #### Frontend
 
 ```bash
-cd frontend
+cd website-vue
 npm install
 npm run serve
 ```
@@ -130,7 +130,7 @@ npm run serve
 #### Backend
 
 ```bash
-cd backend
+cd website-backend
 npm install
 node server.js
 ```
@@ -166,8 +166,14 @@ project/
 ## 📸 Demo（建議補上）
 
 * 登入畫面
+* <img width="933" height="527" alt="image" src="https://github.com/user-attachments/assets/14c1a076-2092-4f67-8bfe-94b9f1582b0b" />
+
 * 照片上傳
+* <img width="935" height="527" alt="image" src="https://github.com/user-attachments/assets/1256b9af-e5ee-4b3e-baf8-ba1eec48a0c6" />
+
 * 管理員審核頁面
+* <img width="935" height="524" alt="image" src="https://github.com/user-attachments/assets/4b684539-7438-4155-813e-82c0d2b3668b" />
+
 
 ---
 
