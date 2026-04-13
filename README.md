@@ -132,7 +132,7 @@ npm run serve
 ```bash
 cd backend
 npm install
-node index.js
+node server.js
 ```
 
 ---
@@ -153,9 +153,11 @@ LINE_CHANNEL_SECRET=your_secret
 
 ```text
 project/
-├── frontend/        # Vue 前端
-├── backend/         # Node.js API / LINE Bot
-├── uploads/         # 使用者圖片（已忽略）
+├── website-vue/        # Vue 前端
+├── website-backend/    # Node.js API / LINE Bot
+├── AI/                 # YOLOv8臉部擷取 / ArcFace 臉部特徵職運算
+├── line-bot/           # Line Bot      
+├── image/              # 使用者圖片
 ├── README.md
 ```
 
@@ -184,7 +186,6 @@ project/
 ## 📈 未來優化
 
 * 雲端部署（Vercel / Render）
-* 即時影像串流辨識
 * 權限管理強化（RBAC）
 * 模型效能優化
 
@@ -198,4 +199,4 @@ project/
 
 ## 📎 GitHub
 
-https://github.com/你的帳號/你的repo
+https://github.com/stanly9199/face-recognization-system
