@@ -163,7 +163,12 @@ project/
 
 ---
 
-## 📸 Demo（建議補上）
+## 📊 系統架構
+* <img width="1471" height="827" alt="image" src="https://github.com/user-attachments/assets/e6b6d75f-45be-4c5f-b503-30b740f53b52" />
+
+---
+
+## 📸 Demo
 
 * 登入畫面
 * <img width="933" height="527" alt="image" src="https://github.com/user-attachments/assets/14c1a076-2092-4f67-8bfe-94b9f1582b0b" />
@@ -173,6 +178,14 @@ project/
 
 * 管理員審核頁面
 * <img width="935" height="524" alt="image" src="https://github.com/user-attachments/assets/4b684539-7438-4155-813e-82c0d2b3668b" />
+
+* 人臉辨識介面
+* <img width="536" height="426" alt="image" src="https://github.com/user-attachments/assets/960e60fc-556a-4abf-b3d2-36d5a54ae2a1" />
+
+* Line-Bot
+* <img width="244" height="525" alt="image" src="https://github.com/user-attachments/assets/25089fe7-ceab-463d-b669-ab4494d86c70" />
+
+
 
 
 ---
@@ -196,6 +209,10 @@ project/
 * 模型效能優化
 
 ---
+
+## PPT/實際展示影片連結
+https://drive.google.com/file/d/1nC9g_p8DmVHA-La1b42-ru-CUzThT_h8/view?usp=drive_link
+https://drive.google.com/file/d/1Dx1aaaSPPJ0doYg0rtiS0E-o5d5N3tIZ/view?usp=drive_link
 
 ## 👨‍💻 作者
 
