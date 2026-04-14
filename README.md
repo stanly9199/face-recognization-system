@@ -211,7 +211,7 @@ project/
 ---
 
 ## PPT/實際展示影片連結
-https://drive.google.com/file/d/1nC9g_p8DmVHA-La1b42-ru-CUzThT_h8/view?usp=drive_link
+https://docs.google.com/presentation/d/1VlzLJiPXEIgv78StMCJyBt8hbJFYC_57/edit?usp=drive_link&ouid=114555313762355475949&rtpof=true&sd=true
 https://drive.google.com/file/d/1Dx1aaaSPPJ0doYg0rtiS0E-o5d5N3tIZ/view?usp=drive_link
 
 ## 👨‍💻 作者
